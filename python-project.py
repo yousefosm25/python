@@ -23,4 +23,4 @@ while True:
     restart = input().strip().lower()
     if restart != "yes":
             print("Exiting program...")
-            break  # Exit the loop
+            break
